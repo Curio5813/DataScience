@@ -24,6 +24,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="/facavcmesmo/dados.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="/facavcmesmo/tempo.csv">
           <value>
             <Attribute>
