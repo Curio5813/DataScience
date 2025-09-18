@@ -38,6 +38,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="/pessoal/Datasets/Popular_Spotify_Songs.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="/pessoal/Datasets/final_book_dataset.csv">
           <value>
             <Attribute>
