@@ -31,13 +31,6 @@
             </Attribute>
           </value>
         </entry>
-        <entry key="/pessoal/Datasets/brazilian_crime_reports_2024.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value=":" />
-            </Attribute>
-          </value>
-        </entry>
         <entry key="/pessoal/Datasets/final_book_dataset.csv">
           <value>
             <Attribute>
