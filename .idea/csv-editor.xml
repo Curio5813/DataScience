@@ -59,6 +59,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="/pessoal/estatistica/setubal_exercicio_9_4.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
       </map>
     </option>
   </component>
