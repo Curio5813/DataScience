@@ -24,6 +24,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../Downloads/education_economy_data.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="/pessoal/Datasets/Popular_Spotify_Songs.csv">
           <value>
             <Attribute>
