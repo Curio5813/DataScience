@@ -24,6 +24,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="/pessoal/datasets/computer_prices_all.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="/pessoal/datasets/education_economy_data.csv">
           <value>
             <Attribute>
