@@ -24,6 +24,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="/formacao_cd/28.Séries Temporais - Prática em Python/AirPassengers.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="/pessoal/datasets/computer_prices_all.csv">
           <value>
             <Attribute>
